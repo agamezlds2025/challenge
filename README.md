@@ -1,8 +1,12 @@
-<h1> Secret Friend Challenge </h1>
+Here is Alberto Rueda, but you can call me Albert!
+# I'm a Database Administrator in Oracle, MySQL, PostgreSQL & back-front end web developer.
+ 
+> In this Challenge project I used Tools like:
 
-- State of the project: Under Construction.
+* HTML
 
+* CSS
 
-Execute SYSTEM, COULD YOU PLEASE ADD:
+* Flex-box
 
-```npm install react ```
+> Come and look my [profile](www.linkedin.com/in/alberto-g-rueda) 
