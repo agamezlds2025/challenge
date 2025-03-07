@@ -11,4 +11,4 @@ Here is Alberto Rueda, but you can call me Albert!
 
 > Come and look my [profile](www.linkedin.com/in/alberto-g-rueda)
 >
-* Actualiza localmente
+* Local Update
