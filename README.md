@@ -9,4 +9,6 @@ Here is Alberto Rueda, but you can call me Albert!
 
 * Flex-box
 
-> Come and look my [profile](www.linkedin.com/in/alberto-g-rueda) 
+> Come and look my [profile](www.linkedin.com/in/alberto-g-rueda)
+>
+* Actualiza localmente
